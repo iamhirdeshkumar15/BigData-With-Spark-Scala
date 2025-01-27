@@ -10,13 +10,18 @@ This repository contains the necessary configurations and setup instructions for
 
 ## Installation Instructions
 
+You can download all the required software (Java, Scala, Spark) from the Google Drive folder:
+
+[Download required software from Google Drive](https://drive.google.com/drive/folders/1C2FBbk2qDYi_Ew2ZmYecUvVEo2gF8-sZ?usp=sharing)
+
+Once downloaded, follow the setup instructions below:**
+
 Follow the steps below to set up your development environment.
 
 ### 1. Install Java 1.8 (JDK 8)
 
 #### On Windows:
-1. Download **Java 8 (JDK 8)** from the official [Oracle JDK download page](https://www.oracle.com/java/technologies/javase-jdk8-downloads.html).
-2. Install the JDK by following the installer prompts.
+1. Install the JDK by following the installer prompts.
 
 Once installed, set up the environment variables:
 - **JAVA_HOME**: Set the `JAVA_HOME` environment variable to point to your Java installation directory. For example:
