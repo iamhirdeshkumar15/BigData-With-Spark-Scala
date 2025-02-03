@@ -37,58 +37,58 @@ This repository contains various Scala programs covering fundamental and advance
 1. `VariablesExample.scala`
 2. `ImmutableVariableExample.scala`
 3. `MutableVariableExample.scala`
-4. `DataTypesExample.scala`
-5. `TypeInferenceExample.scala`
-6. `LazyValExample.scala`
-7. `MultipleAssignmentExample.scala`
-8. `StringInterpolationExample.scala`
+4. `DataTypes.scala`
+5. `TypeInference.scala`
+6. `LazyVal.scala`
+7. `MultipleAssignment.scala`
+8. `StringInterpolation.scala`
 
 ## **2. Loops in Scala**
-9. `ForLoopExample.scala`
-10. `WhileLoopExample.scala`
-11. `DoWhileLoopExample.scala`
-12. `NestedLoopExample.scala`
-13. `BreakContinueExample.scala`
-14. `RangeLoopExample.scala`
+9. `ForLoop.scala`
+10. `WhileLoop.scala`
+11. `DoWhileLoop.scala`
+12. `NestedLoop.scala`
+13. `BreakContinue.scala`
+14. `RangeLoop.scala`
 15. `LoopWithYield.scala`
 
 ## **3. Arrays in Scala**
-16. `ArrayBasicExample.scala`
-17. `ArrayIterationExample.scala`
-18. `MultiDimArrayExample.scala`
-19. `ArraySortingExample.scala`
-20. `ArrayMappingExample.scala`
-21. `ArrayFilteringExample.scala`
-22. `ArrayReductionExample.scala`
+16. `ArrayBasic.scala`
+17. `ArrayIteration.scala`
+18. `MultiDimArray.scala`
+19. `ArraySorting.scala`
+20. `ArrayMapping.scala`
+21. `ArrayFiltering.scala`
+22. `ArrayReduction.scala`
 
 ## **4. Functions in Scala**
-23. `FunctionBasicExample.scala`
+23. `FunctionBasic.scala`
 24. `FunctionWithParameters.scala`
 25. `FunctionWithReturnType.scala`
-26. `AnonymousFunctionExample.scala`
-27. `HigherOrderFunctionExample.scala`
-28. `RecursiveFunctionExample.scala`
-29. `CurriedFunctionExample.scala`
-30. `FunctionOverloadingExample.scala`
+26. `AnonymousFunction.scala`
+27. `HigherOrderFunction.scala`
+28. `RecursiveFunction.scala`
+29. `CurriedFunction.scala`
+30. `FunctionOverloading.scala`
 
 ## **5. Strings in Scala**
-31. `StringBasicExample.scala`
-32. `StringOperationsExample.scala`
-33. `StringComparisonExample.scala`
-34. `StringInterpolationExample.scala`
-35. `SubstringExample.scala`
-36. `StringSplitExample.scala`
-37. `StringConcatenationExample.scala`
-38. `StringReversalExample.scala`
+31. `StringBasic.scala`
+32. `StringOperations.scala`
+33. `StringComparison.scala`
+34. `StringInterpolation.scala`
+35. `Substring.scala`
+36. `StringSplit.scala`
+37. `StringConcatenation.scala`
+38. `StringReversal.scala`
 
 ## **6. ArrayBuffer in Scala**
-39. `ArrayBufferBasicExample.scala`
-40. `ArrayBufferOperationsExample.scala`
-41. `ArrayBufferIterationExample.scala`
-42. `ArrayBufferSortingExample.scala`
-43. `ArrayBufferFilteringExample.scala`
-44. `ArrayBufferMappingExample.scala`
-45. `ArrayBufferAppendingExample.scala`
+39. `ArrayBufferBasic.scala`
+40. `ArrayBufferOperations.scala`
+41. `ArrayBufferIteration.scala`
+42. `ArrayBufferSorting.scala`
+43. `ArrayBufferFiltering.scala`
+44. `ArrayBufferMapping.scala`
+45. `ArrayBufferAppending.scala`
 
 ## **7. Transformations in Apache Spark RDDs**
 46. `RDDMapTransformation.scala`
